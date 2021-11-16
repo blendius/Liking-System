@@ -1,7 +1,3 @@
-# Hello Povio
-
-This was an assignment for the Ruby intern/entry level position. The assignment is made using nodeJS and includes a login/registration for users using jsonwebtoken which enables more secure routes and overall application. It also includes like-dislike system which allows the logged in users to like dislike each other.
-
 ## Installation
 
 First of all use install the required packages
